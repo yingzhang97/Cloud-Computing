@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f2d9bda-cbcc-463d-ad68-2e7ef6fd8bd3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XmKe9ah1EYDPfPhohx0pUjxvkc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="Application.LogAnalysis2">
+    <configuration name="LogAnalysis1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="project1.LogAnalysis1" />
+      <module name="cloud_computing" />
+      <option name="PROGRAM_PARAMETERS" value="input/access_log output4-1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogAnalysis2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="project1.LogAnalysis2" />
+      <module name="cloud_computing" />
+      <option name="PROGRAM_PARAMETERS" value="input/access_log output4-2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogAnalysis3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="project1.LogAnalysis3" />
+      <module name="cloud_computing" />
+      <option name="PROGRAM_PARAMETERS" value="input/access_log output4-3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogAnalysis4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="project1.LogAnalysis4" />
+      <module name="cloud_computing" />
+      <option name="PROGRAM_PARAMETERS" value="input/access_log output4-4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NgramJob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="project1.NgramJob" />
+      <module name="cloud_computing" />
+      <option name="PROGRAM_PARAMETERS" value="input/test output3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.NgramJob" />
+      <item itemvalue="Application.LogAnalysis3" />
+      <item itemvalue="Application.LogAnalysis4" />
+      <item itemvalue="Application.LogAnalysis1" />
+      <item itemvalue="Application.LogAnalysis2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LogAnalysis2" />
+        <item itemvalue="Application.LogAnalysis1" />
+        <item itemvalue="Application.NgramJob" />
+        <item itemvalue="Application.LogAnalysis4" />
+        <item itemvalue="Application.LogAnalysis3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f2d9bda-cbcc-463d-ad68-2e7ef6fd8bd3" name="Default Changelist" comment="" />
+      <created>1581645922951</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581645922951</updated>
+      <workItem from="1581645925574" duration="551000" />
+      <workItem from="1581646562270" duration="11000" />
+      <workItem from="1581646649915" duration="12795000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="395" y="111" key="#NGramJob_(1)" timestamp="1581650393303">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="395" y="111" key="#NGramJob_(1)/0.23.1440.828@0.23.1440.828" timestamp="1581650393303" />
+    <state x="320" y="104" width="813" height="666" key="#Project_Structure" timestamp="1581649481676">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="320" y="104" width="813" height="666" key="#Project_Structure/0.23.1440.828@0.23.1440.828" timestamp="1581649481676" />
+    <state x="325" y="76" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581725979705">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="184" y="100" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.828@0.23.1440.828" timestamp="1581651258258" />
+    <state x="325" y="76" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.829@0.23.1440.829" timestamp="1581725979705" />
+    <state x="325" y="76" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.830@0.23.1440.830" timestamp="1581720174045" />
+    <state x="432" y="247" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581651316875">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="432" y="247" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.828@0.23.1440.828" timestamp="1581651316875" />
+    <state x="437" y="283" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1581726869736">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="437" y="283" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.23.1440.829@0.23.1440.829" timestamp="1581726869736" />
+    <state x="507" y="150" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1581651247768">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="507" y="150" key="#com.intellij.ide.macro.MacrosDialog/0.23.1440.828@0.23.1440.828" timestamp="1581651247768" />
+    <state width="1358" height="201" key="GridCell.Tab.0.bottom" timestamp="1581726012885">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1358" height="201" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1581702758524" />
+    <state width="1358" height="201" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1581726012885" />
+    <state width="1358" height="201" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1581722480423" />
+    <state width="1358" height="201" key="GridCell.Tab.0.center" timestamp="1581726012883">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1358" height="201" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1581702758524" />
+    <state width="1358" height="201" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1581726012883" />
+    <state width="1358" height="201" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1581722480422" />
+    <state width="1358" height="201" key="GridCell.Tab.0.left" timestamp="1581726012882">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1358" height="201" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1581702758523" />
+    <state width="1358" height="201" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1581726012882" />
+    <state width="1358" height="201" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1581722480421" />
+    <state width="1358" height="201" key="GridCell.Tab.0.right" timestamp="1581726012884">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1358" height="201" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1581702758524" />
+    <state width="1358" height="201" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1581726012884" />
+    <state width="1358" height="201" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1581722480423" />
+    <state x="208" y="23" width="1024" height="828" key="SettingsEditor" timestamp="1581650213587">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="208" y="23" width="1024" height="828" key="SettingsEditor/0.23.1440.828@0.23.1440.828" timestamp="1581650213587" />
+    <state x="374" y="271" key="com.intellij.ide.util.TipDialog" timestamp="1581646562555">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="374" y="271" key="com.intellij.ide.util.TipDialog/0.23.1440.828@0.23.1440.828" timestamp="1581645926745" />
+    <state x="374" y="271" key="com.intellij.ide.util.TipDialog/0.23.1440.829@0.23.1440.829" timestamp="1581646562555" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/project1/LogAnalysis1.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
